@@ -48,8 +48,5 @@
                 echo json_encode($response);
             }
         }
-        
-
-
-       
     }
+//End of file add_products_favorit_produk_without_login.php
